@@ -1,0 +1,14 @@
+C:\Users\reena\Documents\Visual Studio 2008\Projects\InnodisProject5.2\InnodisProject5.2\bin\Debug\InnodisProject5.2.exe
+C:\Users\reena\Documents\Visual Studio 2008\Projects\InnodisProject5.2\InnodisProject5.2\bin\Debug\InnodisProject5.2.pdb
+C:\Users\reena\Documents\Visual Studio 2008\Projects\InnodisProject5.2\InnodisProject5.2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\reena\Documents\Visual Studio 2008\Projects\InnodisProject5.2\InnodisProject5.2\obj\Debug\InnodisProject5._2.FormChooseMethod.resources
+C:\Users\reena\Documents\Visual Studio 2008\Projects\InnodisProject5.2\InnodisProject5.2\obj\Debug\InnodisProject5._2.FormScanEAN13.resources
+C:\Users\reena\Documents\Visual Studio 2008\Projects\InnodisProject5.2\InnodisProject5.2\obj\Debug\InnodisProject5._2.FormUserLogIn.resources
+C:\Users\reena\Documents\Visual Studio 2008\Projects\InnodisProject5.2\InnodisProject5.2\obj\Debug\InnodisProject5._2.FormViewEAN128Information.resources
+C:\Users\reena\Documents\Visual Studio 2008\Projects\InnodisProject5.2\InnodisProject5.2\obj\Debug\InnodisProject5._2.Properties.Resources.resources
+C:\Users\reena\Documents\Visual Studio 2008\Projects\InnodisProject5.2\InnodisProject5.2\obj\Debug\InnodisProject5._2.FormScabEAB128.resources
+C:\Users\reena\Documents\Visual Studio 2008\Projects\InnodisProject5.2\InnodisProject5.2\obj\Debug\InnodisProject5._2.FormScanPallet.resources
+C:\Users\reena\Documents\Visual Studio 2008\Projects\InnodisProject5.2\InnodisProject5.2\obj\Debug\InnodisProject5.2.csproj.GenerateResource.Cache
+C:\Users\reena\Documents\Visual Studio 2008\Projects\InnodisProject5.2\InnodisProject5.2\obj\Debug\InnodisProject5.2.exe
+C:\Users\reena\Documents\Visual Studio 2008\Projects\InnodisProject5.2\InnodisProject5.2\obj\Debug\InnodisProject5.2.pdb
+C:\Users\reena\Documents\Visual Studio 2008\Projects\InnodisProject5.2\InnodisProject5.2\obj\Debug\InnodisProject5._2.FormScanFF.resources
