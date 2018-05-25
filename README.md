@@ -1,7 +1,5 @@
 # barcode-scanning
 
-barcode-scanning
-
 A project developed on a Intermect CN70 device running the windows mobile 6.5 operating system. The project is a barcode scanning software that scans product barcodes (EAN13) and then generates an EAN128 barcode for boxes and pallets. The software makes use of object oriented programming on C# and an Oracle Database.
 
 There are 5 main forms used in the software which are listed below.
